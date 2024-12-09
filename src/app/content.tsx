@@ -31,7 +31,7 @@ export default function Content() {
           <figure className="p-2">
             <div className="avatar online">
               <div className=" ring-violet-700 w-36 rounded-full ring ring-offset-2">
-                <img src="https://scontent.fdac155-1.fna.fbcdn.net/v/t39.30808-6/469099056_1358604898437456_7484984520046363455_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeG2-OxVshsegaS5quWZ4EklHimhfPdwCaAeKaF893AJoFQ-D1ZFkTVQusgbYr8bFgFxTpZqP01AHy6O2v50SZO7&_nc_ohc=o0Km93QbRSwQ7kNvgHQSTB4&_nc_zt=23&_nc_ht=scontent.fdac155-1.fna&_nc_gid=A6kbaykYvCDbiJ8DJw166Wv&oh=00_AYDxigRnPoKptO52m6m2QCxZdnVHZXl64rbHxu0G_b_bmQ&oe=67559674" />
+                <img src="/moin.jpg" />
               </div>
             </div>
           </figure>
